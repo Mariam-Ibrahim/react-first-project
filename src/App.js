@@ -17,7 +17,8 @@ export default function App() {
       {index:true , element:<Intropage/>},
       {path:"portfolio",element:<Portfolio/>},
       {path:"about",element:<About/>},
-      {path:"contact",element:<Contact/>}
+      {path:"contact",element:<Contact/>},
+      {path:"*" , element:<Intropage/>}
     ]}
   ])
   return (
