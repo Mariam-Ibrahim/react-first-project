@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-first-project/static/css/main.005ed27d.css",
+    "main.js": "/react-first-project/static/js/main.d5f1d1f9.js",
+    "static/js/787.b738eb3d.chunk.js": "/react-first-project/static/js/787.b738eb3d.chunk.js",
+    "static/media/fa-solid-900.ttf": "/react-first-project/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
+    "static/media/fa-brands-400.ttf": "/react-first-project/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
+    "static/media/fa-solid-900.woff2": "/react-first-project/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
+    "static/media/fa-brands-400.woff2": "/react-first-project/static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
+    "static/media/fa-regular-400.ttf": "/react-first-project/static/media/fa-regular-400.146404900f7550a9719d.ttf",
+    "static/media/cabin.png": "/react-first-project/static/media/cabin.4417330275f78faa31c3.png",
+    "static/media/circus.png": "/react-first-project/static/media/circus.494a4a914b5471b41f3e.png",
+    "static/media/game.png": "/react-first-project/static/media/game.a940b57aa7bab2eacc52.png",
+    "static/media/fa-regular-400.woff2": "/react-first-project/static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
+    "static/media/submarine.png": "/react-first-project/static/media/submarine.48c9704ca7f8ce901038.png",
+    "static/media/safe.png": "/react-first-project/static/media/safe.01792c0bdc342bf4bf9c.png",
+    "static/media/cake.png": "/react-first-project/static/media/cake.6554473016d32b343f02.png",
+    "static/media/avataaars.svg": "/react-first-project/static/media/avataaars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
+    "static/media/fa-v4compatibility.ttf": "/react-first-project/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
+    "static/media/fa-v4compatibility.woff2": "/react-first-project/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
+    "index.html": "/react-first-project/index.html",
+    "main.005ed27d.css.map": "/react-first-project/static/css/main.005ed27d.css.map",
+    "main.d5f1d1f9.js.map": "/react-first-project/static/js/main.d5f1d1f9.js.map",
+    "787.b738eb3d.chunk.js.map": "/react-first-project/static/js/787.b738eb3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.005ed27d.css",
+    "static/js/main.d5f1d1f9.js"
+  ]
+}
