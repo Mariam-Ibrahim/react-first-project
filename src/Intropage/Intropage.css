@@ -1,0 +1,14 @@
+.interosection{
+    background-color: #1abc9c;
+}
+.myfont{
+    font-size: 4rem;
+    font-weight: bold;
+}
+.myfont2{
+    font-size: 1.5rem;
+    /* font-weight: bold; */
+}
+.myimg{
+    width: 35%;
+}
